@@ -1,8 +1,6 @@
-# Personal Infrastructure Alerts
+# Tianfeng Chen - SMS Infrastructure Alerts
 
-Private personal software automation and infrastructure monitoring SMS program operated by **Tianfeng Chen**.
-
-**Personal Infrastructure Alerts** is the registered Sole Proprietor brand associated with this SMS notification program.
+Private personal software automation and infrastructure monitoring SMS program operated by **Tianfeng Chen**, the registered Sole Proprietor.
 
 - [SMS Opt-In](./opt-in.html)
 - [Privacy Policy](./privacy.html)
