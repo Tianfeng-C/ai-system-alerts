@@ -1,8 +1,9 @@
-# AI System Infrastructure Alerts
+# Personal Infrastructure Alerts
 
-Private personal automation and infrastructure monitoring system operated by **Alex Chen**.
+Private personal software automation and infrastructure monitoring SMS program operated by **Tianfeng Chen**.
 
-This site contains the legal information for the associated SMS notification program.
+**Personal Infrastructure Alerts** is the registered Sole Proprietor brand associated with this SMS notification program.
 
+- [SMS Opt-In](./opt-in.html)
 - [Privacy Policy](./privacy.html)
 - [Terms & Conditions](./terms.html)
