@@ -1,5 +1,9 @@
 # Privacy Policy
 
+---
+permalink: /privacy/
+---
+
 **Last updated: October 1, 2026**
 
 This SMS program is operated by **Luming You** as a sole proprietor for a private personal automation system.
