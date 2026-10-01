@@ -1,6 +1,6 @@
 # AI System Infrastructure Alerts
 
-Private personal automation and infrastructure monitoring system operated by **Tianfeng Chen**.
+Private personal automation and infrastructure monitoring system operated by **Alex Chen**.
 
 This site contains the legal information for the associated SMS notification program.
 
